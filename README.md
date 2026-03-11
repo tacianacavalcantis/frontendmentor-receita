@@ -35,7 +35,7 @@ Build a recipe page that displays cooking instructions, ingredients, and nutriti
 Construir uma página de receita que exiba instruções de preparo, ingredientes e informações nutricionais. A página deve ser responsiva e corresponder visualmente ao design fornecido da melhor forma possível.
 
 # Screenshot / Captura de Tela
-
+![Tela resposta desafio](https://raw.githubusercontent.com/tacianacavalcantis/frontendmentor-receita/refs/heads/master/assets/images/resposta-desafio.png)
 
 # Link
 
@@ -60,7 +60,7 @@ Construir uma página de receita que exiba instruções de preparo, ingredientes
 **EN:**
 During this project, I reinforced my knowledge of:
 
-1. Semantic HTML - Using the correct tags ('<main>, <section>, <header>, <footer>') for better accessibility and SEO.
+1. Semantic HTML - Using the correct tags (main, section, header, footer) for better accessibility and SEO.
 
 2. CSS Organization - Structuring stylesheets with comments and using utility classes (like .margin-15) to avoid code duplication.
 
@@ -74,7 +74,7 @@ During this project, I reinforced my knowledge of:
 
 Durante este projeto, eu refinei meus conhecimentos em:
 
-1. HTML Semântico - Uso das tags corretas <main>, <section>, <header>, <footer> para melhor acessibilidade e SEO.
+1. HTML Semântico - Uso das tags corretas main, section, header, footer para melhor acessibilidade e SEO.
 
 2. Organização CSS - Estruturação de folhas de estilo com comentários e uso de classes utilitárias (como .margin-15) para evitar duplicação de código.
 
@@ -90,4 +90,4 @@ Durante este projeto, eu refinei meus conhecimentos em:
 
 **Frontend Mentor:**
 
-**GitHub:**
+**GitHub:**[tacianacavalcantis.github.io/frontendmentor-receita/](https://tacianacavalcantis.github.io/frontendmentor-receita/)
