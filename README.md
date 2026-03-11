@@ -90,4 +90,4 @@ Durante este projeto, eu refinei meus conhecimentos em:
 
 **Frontend Mentor:**
 
-**GitHub:**[tacianacavalcantis.github.io/frontendmentor-receita/](https://tacianacavalcantis.github.io/frontendmentor-receita/)
+**GitHub:** [tacianacavalcantis.github.io/frontendmentor-receita/](https://tacianacavalcantis.github.io/frontendmentor-receita/)
