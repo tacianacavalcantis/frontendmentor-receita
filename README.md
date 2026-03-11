@@ -88,6 +88,6 @@ Durante este projeto, eu refinei meus conhecimentos em:
 
 **Taciana CavalcantiS**
 
-**Frontend Mentor:**
+**Frontend Mentor:** [/www.frontendmentor.io/challenges/recipe](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 
 **GitHub:** [tacianacavalcantis.github.io/frontendmentor-receita/](https://tacianacavalcantis.github.io/frontendmentor-receita/)
